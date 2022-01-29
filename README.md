@@ -10,6 +10,8 @@ Blockchain Building Blocks HW 12 - Unit 18
 
 According to industry leaders such as Imran Bashir and others, Blockchain technologies including Decentralized Finance (DeFi) has enormous potential and is about to really take off and become mainstream. In 'Mastering Blockchain', Bashir states that by 2025 it is expected that by 2025 the technology will be mature enough to be used very regularly by regular, less tech-savvy consumers. 
 
+Bashir refers to this website, [DeFi Pulse](https://www.defipulse.com/), as an indication of this sector's growth. At the moment in January 2022 it shows a total of $ 79 billion US Dollars locked in the system, up from the $ 5 billion he referenced in 'Mastering Blockchain' (published in 2020). 
+
 This app is a limited example of such a consumer interface.
 
 # Blockchain
