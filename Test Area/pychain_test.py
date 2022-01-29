@@ -83,9 +83,7 @@ class Block:
     prev_hash: str = "0"
     timestamp: str = datetime.datetime.utcnow().strftime("%H:%M:%S")
     nonce: int = 0
-    sender: str
-    receiver: str()
-    amount: float()
+
 
     def hash_block(self):
         sha = hashlib.sha256()
@@ -187,19 +185,19 @@ pychain = setup()
 # Add an input area where you can get a value for `sender` from the user.
 input_data_sender = st.text_input("Type in 'Sender' value")
 if st.button("Sender"):
-st.write(input_data_sender)
+    st.write(input_data_sender)
 
 # @TODO:
 # Add an input area where you can get a value for `receiver` from the user.
 input_data_receiver = st.text_input("Type in 'Receiver' value")
 if st.button("Receiver"):
-st.write(input_data_receiver)
+    st.write(input_data_receiver)
 
 # @TODO:
 # Add an input area where you can get a value for `amount` from the user.
 input_data_amount = st.text_input("Type in 'Amount' value")
 if st.button("Amount"):
-st.write(input_data_amount)
+    st.write(input_data_amount)
 
 if st.button("Add Block"):
     prev_block = pychain.chain[-1]
