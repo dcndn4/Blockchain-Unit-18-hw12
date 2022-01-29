@@ -56,17 +56,15 @@ These notebooks also contain a time tracking feature to indicate length of runti
 
 Libraries
 
--- numpy
-
 -- pandas
 
---hvplot
+--streamlit
 
---tensorflow
+--dataclasses
 
---sklearn
+--hashlib
 
---time
+--Spyder
 
 - Xbox Game Bar for video of streamlit app working
 
