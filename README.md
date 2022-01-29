@@ -4,7 +4,7 @@ Blockchain Building Blocks HW 12 - Unit 18
 
 
 
-![BlockChain](Images/application-image.jpg)
+![BlockChain](Images/application-image.png)
 
 Enclosed please find two Jupyter Lab notebooks, 
 
